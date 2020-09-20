@@ -22,7 +22,7 @@
 
 
 [website]: https://medium.com/codeacademia 
-[youtube]: https://medium.com/codeacademia
-[React]: https://medium.com/codeacademia
+[youtube]: https://www.youtube.com/
 [instagram]: https://www.instagram.com/yudi_kaka/
-[linkedin]: https://medium.com/codeacademia
+[linkedin]: https://www.linkedin.com/in/yudikrisnandi22/
+[React]: https://medium.com/codeacademia
