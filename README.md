@@ -1,6 +1,14 @@
 ### Hi there, I'm Yudi Krisnandi
 > [1 Thessalonians 5 : 18] - In everything give thanks
 
+### Check my course on udemy
+
+#### React Master class Untuk semua [klik disini][react]
+
+Gunakan kupon ini [66F080D44A1F004753AA] atau klik [link ini][kupon], untuk mendapatkan potongan harga 50%.
+
+Kupon ini berlaku sampai 28 september 2020.
+
 
 ### About me
 - 👨‍💻 code for fun
@@ -21,4 +29,5 @@
 [youtube]: https://www.youtube.com/
 [instagram]: https://www.instagram.com/yudi_kaka/
 [linkedin]: https://www.linkedin.com/in/yudikrisnandi22/
-[React]: https://medium.com/codeacademia
+[react]: https://www.udemy.com/course/react-master-class-untuk-semua/
+[kupon]: https://www.udemy.com/course/react-master-class-untuk-semua/?couponCode=66F080D44A1F004753AA
