@@ -2,8 +2,6 @@
 > [1 Thessalonians 5 : 18] - In everything give thanks
 
 [![Website](https://img.shields.io/website?label=Kodeakademia.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://medium.com/codeacademia)
-### Check my course on Udemy
-- [React master class untuk semua][React]
 
 
 ### About me
