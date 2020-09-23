@@ -26,7 +26,7 @@ Kupon ini berlaku sampai 28 september 2020.
 
 
 [website]: https://medium.com/codeacademia 
-[youtube]: https://www.youtube.com/
+[youtube]: https://www.youtube.com/channel/UCFrn9K9POdgVCutBs0hkqMQ
 [instagram]: https://www.instagram.com/yudi_kaka/
 [linkedin]: https://www.linkedin.com/in/yudikrisnandi22/
 [react]: https://www.udemy.com/course/react-master-class-untuk-semua/
