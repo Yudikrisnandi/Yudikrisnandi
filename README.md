@@ -14,7 +14,7 @@ Kupon ini berlaku sampai 28 september 2020.
 - 👨‍💻 code for fun
 - ✍️ I'm a tech blog writer at [Kodeakademia][website] 👋
 - 📺 I also run a youtube channel [Kodeakademia][youtube]
-- ⚽ I'm a runner, calisthenic, football freestyler
+- ⚽ I'm also a runner, calisthenicer, football freestyler
 - 🧑‍🍳 Hobby cooking and reading
 - ⚡ Fun fact: I'm big fans of AC MILAN, Forza Milan!!!
 
