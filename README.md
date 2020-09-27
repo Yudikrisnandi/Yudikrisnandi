@@ -5,9 +5,6 @@
 
 #### React Master class Untuk semua [klik disini][react]
 
-Kupon ini berlaku sampai 28 september 2020.
-
-
 ### About me
 - 👨‍💻 code for fun
 - ✍️ I'm a tech blog writer at [Kodeakademia][website] 👋
