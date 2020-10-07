@@ -3,7 +3,9 @@
 
 ### Check my course on udemy
 
-#### React Master class Untuk semua [klik disini][react]
+#### React Masterclass Untuk semua [klik disini][react]
+
+#### Git Masterclass Untuk semua (comming soon 12 october 2020)
 
 ### About me
 - 👨‍💻 code for fun
