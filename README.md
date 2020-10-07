@@ -5,7 +5,7 @@
 
 #### React Masterclass Untuk semua [klik disini][react]
 
-#### Git Masterclass Untuk semua (comming soon 12 october 2020)
+#### Git Masterclass Untuk semua (cooming soon 12 october 2020)
 
 ### About me
 - 👨‍💻 code for fun
