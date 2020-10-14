@@ -5,7 +5,7 @@
 
 #### Kupon course : React Masterclass Untuk semua [klik disini][react]
 
-#### Git Masterclass Untuk semua (coming soon 13 october 2020)
+#### Kupon course : Git Masterclass Untuk semua [klik disini][git]
 
 ### About me
 - 👨‍💻 code for fun
@@ -27,3 +27,4 @@
 [instagram]: https://www.instagram.com/yudi_kaka/
 [linkedin]: https://www.linkedin.com/in/yudikrisnandi22/
 [react]: https://www.udemy.com/course/react-master-class-untuk-semua/?couponCode=D4AAD906480A17725713
+[git]: https://www.udemy.com/course/git-masterclass-untuk-semua/?couponCode=A7020F1E40C913947A24
