@@ -12,7 +12,8 @@
 - ✍️ I'm a tech blog writer at [Kodeakademia][website] 👋
 - ⚽ I'm also a runner, calisthenicer, football freestyler
 - 🧑‍🍳 Hobby cooking and reading
-- ⚡ Fun fact: I'm big fans of AC MILAN, Forza Milan!!!
+- ⚡ I'm big fans of AC MILAN, Forza Milan!!!
+- 🈹 languages lovers, currently learning 🇨🇳Chinese, 🇮🇹Italian, 🇯🇵Japanese, and 🇦🇪Arabic
 
 ### Connect with me:
 [<img align="left" alt=" https://medium.com/codeacademia " width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
