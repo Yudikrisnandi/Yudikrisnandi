@@ -10,7 +10,7 @@
 ### About me
 - 👨‍💻 code for fun
 - ✍️ I'm a tech blog writer at [Kodeakademia][website] 👋
-- 📺 Also un a youtube channel [Kodeakademia][Youtube]
+- 📺 Also run youtube channel [Kodeakademia][Youtube]
 - ⚽ I'm also a runner, calisthenicer, football freestyler
 - 🧑‍🍳 Hobby cooking and reading
 - ⚡ I'm big fans of AC MILAN, Forza Milan!!!
