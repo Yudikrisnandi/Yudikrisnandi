@@ -10,6 +10,7 @@
 ### About me
 - 👨‍💻 code for fun
 - ✍️ I'm a tech blog writer at [Kodeakademia][website] 👋
+- 📺 Also un a youtube channel [Kodeakademia][Youtube]
 - ⚽ I'm also a runner, calisthenicer, football freestyler
 - 🧑‍🍳 Hobby cooking and reading
 - ⚡ I'm big fans of AC MILAN, Forza Milan!!!
@@ -26,5 +27,5 @@
 [youtube]: https://www.youtube.com/channel/UCFrn9K9POdgVCutBs0hkqMQ
 [instagram]: https://www.instagram.com/yudi_kaka/
 [linkedin]: https://www.linkedin.com/in/yudikrisnandi22/
-[react]: https://www.udemy.com/course/react-master-class-untuk-semua/?couponCode=D4AAD906480A17725713
-[git]: https://www.udemy.com/course/git-masterclass-untuk-semua/?couponCode=A7020F1E40C913947A24
+[react]: https://www.udemy.com/course/react-master-class-untuk-semua/?couponCode=5ACA8BCE0BFEF84D04FC
+[git]: https://www.udemy.com/course/git-masterclass-untuk-semua/?couponCode=ED76D89602FEAAEE7DBA
