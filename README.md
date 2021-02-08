@@ -27,5 +27,5 @@
 [youtube]: https://www.youtube.com/channel/UCFrn9K9POdgVCutBs0hkqMQ
 [instagram]: https://www.instagram.com/yudi_kaka/
 [linkedin]: https://www.linkedin.com/in/yudikrisnandi22/
-[react]: https://www.udemy.com/course/react-master-class-untuk-semua/?couponCode=7373266C9446C70EF658
+[react]: https://www.udemy.com/course/react-master-class-untuk-semua/?couponCode=352456CD57276EFD7D65
 [git]: https://www.udemy.com/course/git-masterclass-untuk-semua/?couponCode=EE534DE4F043E7457557
