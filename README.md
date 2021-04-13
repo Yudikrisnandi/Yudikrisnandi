@@ -1,12 +1,6 @@
 ### Hi there, I'm Yudi Krisnandi
 > [1 Thessalonians 5 : 18] - In everything give thanks
 
-### Check my course on udemy
-
-#### Kupon course : React Masterclass Untuk semua [klik disini][react]
-
-#### Kupon course : Git Masterclass Untuk semua [klik disini][git]
-
 ### About me
 - 👨‍💻 code for fun
 - ✍️ I'm a tech blog writer at [Kodeakademia][website] 👋
@@ -27,5 +21,3 @@
 [youtube]: https://www.youtube.com/channel/UCFrn9K9POdgVCutBs0hkqMQ
 [instagram]: https://www.instagram.com/yudi_kaka/
 [linkedin]: https://www.linkedin.com/in/yudikrisnandi22/
-[react]: https://www.udemy.com/course/react-master-class-untuk-semua/?couponCode=352456CD57276EFD7D65
-[git]: https://www.udemy.com/course/git-masterclass-untuk-semua/?couponCode=EE534DE4F043E7457557
