@@ -3,7 +3,7 @@
 
 ### About me
 - 👨‍💻 code for fun
-- ✍️ I'm a tech blog writer at [Kodeakademia][website] 👋
+- ✍️ I'm a blog writer on [my own blog][website] 👋
 - 📺 Also run youtube channel [Kodeakademia][Youtube]
 - ⚽ I'm also a runner, calisthenicer, football freestyler
 - 🧑‍🍳 Hobby cooking and reading
